@@ -2,13 +2,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber = ['919931122319']
-global.ownername = "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰"//owner name
+global.ownernumber = ['2348032309782']
+global.ownername = "𝙂𝙀𝙉𝙏𝙇𝙀"//owner name
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
 
-global.botname = '𝐌𝐀𝐑𝐈𝐀-𝐌𝐃' //name of the bot
+global.botname = '𝙂𝙀𝙉𝙏𝙇𝙀-𝙈𝘿' //name of the bot
 
 //sticker details
 global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
@@ -22,7 +22,7 @@ global.wm = "Ayush botz inc."
 global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = [',']
 
 //false=disable and true=enable
 global.welcome = false //auto welcome
